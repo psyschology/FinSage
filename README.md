@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or suggestions, feel free to contact us at:
-- Email: support@finanalytica.com
+- Email: support@jetweb.in
 - GitHub Issues: [GitHub Issues](https://github.com/psyschology/FinSage/issues)
 
 ---
